@@ -1,5 +1,5 @@
 ResearchRepository
 ==================
 
-Github勉強用
+Github確認用
 
